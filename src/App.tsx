@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react"
+import React, {useState } from "react"
 import { DragDropContext, Draggable, Droppable, DropResult } from "react-beautiful-dnd"
 import "./App.css"
 import ContentList from "./components/ContentList";
